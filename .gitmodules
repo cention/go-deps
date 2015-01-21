@@ -4,3 +4,6 @@
 [submodule "src/github.com/st3v/translator"]
 	path = src/github.com/st3v/translator
 	url = git@github.com:st3v/translator
+[submodule "src/github.com/cention-nazri/translator"]
+	path = src/github.com/cention-nazri/translator
+	url = git@github.com:cention-nazri/translator.git
