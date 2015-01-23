@@ -4,3 +4,12 @@
 [submodule "src/github.com/cention-nazri/translator"]
 	path = src/github.com/cention-nazri/translator
 	url = git@github.com:cention-nazri/translator.git
+[submodule "src/github.com/cention-nazri/logrot"]
+	path = src/github.com/cention-nazri/logrot
+	url = git@github.com:cention-nazri/logrot.git
+[submodule "src/github.com/cention-nazri/jetconf"]
+	path = src/github.com/cention-nazri/jetconf
+	url = git@github.com:cention-nazri/jetconf.git
+[submodule "src/github.com/cention-nazri/pidrec"]
+	path = src/github.com/cention-nazri/pidrec
+	url = git@github.com:cention-nazri/pidrec.git
