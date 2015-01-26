@@ -13,3 +13,6 @@
 [submodule "src/github.com/cention-nazri/pidrec"]
 	path = src/github.com/cention-nazri/pidrec
 	url = git@github.com:cention-nazri/pidrec.git
+[submodule "src/github.com/st3v/translator"]
+	path = src/github.com/st3v/translator
+	url = git@github.com:st3v/translator
