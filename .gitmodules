@@ -16,3 +16,30 @@
 [submodule "src/github.com/huandu/facebook"]
 	path = src/github.com/huandu/facebook
 	url = git@github.com:huandu/facebook
+[submodule "src/github.com/manucorporat/sse"]
+	path = src/github.com/manucorporat/sse
+	url = git@github.com:manucorporat/sse
+[submodule "src/github.com/mattn/go-colorable"]
+	path = src/github.com/mattn/go-colorable
+	url = git@github.com:mattn/go-colorable
+[submodule "src/github.com/gin-gonic/gin"]
+	path = src/github.com/gin-gonic/gin
+	url = git@github.com:gin-gonic/gin
+[submodule "src/gopkg.in/bluesuncorp/validator.v5"]
+	path = src/gopkg.in/bluesuncorp/validator.v5
+	url = https://gopkg.in/bluesuncorp/validator.v5
+[submodule "src/golang.org/x/net"]
+	path = src/golang.org/x/net
+	url = https://go.googlesource.com/net
+[submodule "src/github.com/bradfitz/gomemcache"]
+	path = src/github.com/bradfitz/gomemcache
+	url = git@github.com:bradfitz/gomemcache
+[submodule "src/github.com/cention-mujibur-rahman/gobcache"]
+	path = src/github.com/cention-mujibur-rahman/gobcache
+	url = git@github.com:cention-mujibur-rahman/gobcache
+[submodule "src/github.com/asaskevich/govalidator"]
+	path = src/github.com/asaskevich/govalidator
+	url = git@github.com:asaskevich/govalidator
+[submodule "src/github.com/tealeg/xlsx"]
+	path = src/github.com/tealeg/xlsx
+	url = git@github.com:tealeg/xlsx
