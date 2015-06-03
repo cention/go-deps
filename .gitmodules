@@ -43,3 +43,9 @@
 [submodule "src/github.com/tealeg/xlsx"]
 	path = src/github.com/tealeg/xlsx
 	url = git@github.com:tealeg/xlsx
+[submodule "src/github.com/wai-cention/smpp34"]
+	path = src/github.com/wai-cention/smpp34
+	url = git@github.com:wai-cention/smpp34
+[submodule "src/github.com/wai-cention/wbxml-go"]
+	path = src/github.com/wai-cention/wbxml-go
+	url = git@github.com:wai-cention/wbxml-go
