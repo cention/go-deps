@@ -58,3 +58,6 @@
 [submodule "src/github.com/gorilla/websocket"]
 	path = src/github.com/gorilla/websocket
 	url = git@github.com:gorilla/websocket
+[submodule "src/github.com/cention-mujibur-rahman/golang-linkedin"]
+	path = src/github.com/cention-mujibur-rahman/golang-linkedin
+	url = git@github.com:cention-mujibur-rahman/golang-linkedin
