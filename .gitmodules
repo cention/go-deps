@@ -61,3 +61,6 @@
 [submodule "src/github.com/cention-mujibur-rahman/golang-linkedin"]
 	path = src/github.com/cention-mujibur-rahman/golang-linkedin
 	url = git@github.com:cention-mujibur-rahman/golang-linkedin
+[submodule "src/github.com/pmezard/go-difflib"]
+	path = src/github.com/pmezard/go-difflib
+	url = git@github.com:pmezard/go-difflib
