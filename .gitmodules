@@ -91,3 +91,6 @@
 [submodule "src/golang.org/x/text"]
 	path = src/golang.org/x/text
 	url = https://go.googlesource.com/text
+[submodule "src/github.com/microcosm-cc/bluemonday"]
+	path = src/github.com/microcosm-cc/bluemonday
+	url = git@github.com:microcosm-cc/bluemonday
