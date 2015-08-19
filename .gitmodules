@@ -65,5 +65,5 @@
 	path = src/github.com/pmezard/go-difflib
 	url = git@github.com:pmezard/go-difflib
 [submodule "src/github.com/hhkbp2"]
-	path = src/github.com/hhkbp2
+	path = src/github.com/hhkbp2/go-strftime
 	url = git@github.com:hhkbp2/go-strftime
