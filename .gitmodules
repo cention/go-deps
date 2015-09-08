@@ -94,3 +94,6 @@
 [submodule "src/github.com/microcosm-cc/bluemonday"]
 	path = src/github.com/microcosm-cc/bluemonday
 	url = git@github.com:microcosm-cc/bluemonday
+[submodule "src/github.com/itsjamie/gin-cors"]
+	path = src/github.com/itsjamie/gin-cors
+	url = git@github.com:itsjamie/gin-cors
