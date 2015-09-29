@@ -97,3 +97,6 @@
 [submodule "src/github.com/itsjamie/gin-cors"]
 	path = src/github.com/itsjamie/gin-cors
 	url = git@github.com:itsjamie/gin-cors
+[submodule "src/github.com/cention-sany/gomail"]
+	path = src/github.com/cention-sany/gomail
+	url = git@github.com:cention-sany/gomail.git
