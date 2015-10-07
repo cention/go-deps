@@ -100,3 +100,6 @@
 [submodule "src/github.com/cention-sany/gomail"]
 	path = src/github.com/cention-sany/gomail
 	url = git@github.com:cention-sany/gomail.git
+[submodule "src/github.com/cention-sany/quotedprintable"]
+	path = src/github.com/cention-sany/quotedprintable
+	url = git@github.com:cention-sany/quotedprintable.git
