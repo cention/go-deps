@@ -49,6 +49,9 @@
 [submodule "src/github.com/wai-cention/wbxml-go"]
 	path = src/github.com/wai-cention/wbxml-go
 	url = git@github.com:wai-cention/wbxml-go
+[submodule "src/github.com/wai-cention/at"]
+	path = src/github.com/wai-cention/at
+	url = git@github.com:wai-cention/at
 [submodule "src/github.com/googollee/go-socket.io"]
 	path = src/github.com/googollee/go-socket.io
 	url = git@github.com:googollee/go-socket.io
