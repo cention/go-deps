@@ -106,3 +106,6 @@
 [submodule "src/github.com/cention-sany/quotedprintable"]
 	path = src/github.com/cention-sany/quotedprintable
 	url = git@github.com:cention-sany/quotedprintable.git
+[submodule "src/github.com/cention-sany/openssl"]
+	path = src/github.com/cention-sany/openssl
+	url = git@github.com:cention-sany/openssl.git
