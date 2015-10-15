@@ -106,3 +106,6 @@
 [submodule "src/github.com/cention-sany/openssl"]
 	path = src/github.com/cention-sany/openssl
 	url = git@github.com:cention-sany/openssl.git
+[submodule "src/github.com/spacemonkeygo/spacelog"]
+	path = src/github.com/spacemonkeygo/spacelog
+	url = git@github.com:spacemonkeygo/spacelog.git
