@@ -109,3 +109,15 @@
 [submodule "src/github.com/spacemonkeygo/spacelog"]
 	path = src/github.com/spacemonkeygo/spacelog
 	url = git@github.com:spacemonkeygo/spacelog.git
+[submodule "src/github.com/cention-sany/utf7"]
+	path = src/github.com/cention-sany/utf7
+	url = git@github.com:cention-sany/utf7.git
+[submodule "src/github.com/cention-sany/mime"]
+	path = src/github.com/cention-sany/mime
+	url = git@github.com:cention-sany/mime.git
+[submodule "src/github.com/glycerine/rbuf"]
+	path = src/github.com/glycerine/rbuf
+	url = git@github.com:glycerine/rbuf.git
+[submodule "src/github.com/cention-sany/go.enmime"]
+	path = src/github.com/cention-sany/go.enmime
+	url = git@github.com:cention-sany/go.enmime.git
