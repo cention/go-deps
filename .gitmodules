@@ -70,21 +70,9 @@
 [submodule "src/github.com/hhkbp2"]
 	path = src/github.com/hhkbp2/go-strftime
 	url = git@github.com:hhkbp2/go-strftime
-[submodule "src/gopkg.in/alexcesaro/quotedprintable.v2"]
-	path = src/gopkg.in/alexcesaro/quotedprintable.v2
-	url = https://gopkg.in/alexcesaro/quotedprintable.v2
-[submodule "src/gopkg.in/gomail.v1"]
-	path = src/gopkg.in/gomail.v1
-	url = https://gopkg.in/gomail.v1
 [submodule "src/github.com/qiniu/iconv"]
 	path = src/github.com/qiniu/iconv
 	url = https://github.com/qiniu/iconv
-[submodule "src/github.com/jhillyerd/go.enmime"]
-	path = src/github.com/jhillyerd/go.enmime
-	url = https://github.com/jhillyerd/go.enmime
-[submodule "src/github.com/sloonz/go-qprintable"]
-	path = src/github.com/sloonz/go-qprintable
-	url = https://github.com/sloonz/go-qprintable
 [submodule "src/github.com/mxk/go-imap"]
 	path = src/github.com/mxk/go-imap
 	url = https://github.com/mxk/go-imap
@@ -103,12 +91,21 @@
 [submodule "src/github.com/cention-sany/gomail"]
 	path = src/github.com/cention-sany/gomail
 	url = git@github.com:cention-sany/gomail.git
-[submodule "src/github.com/cention-sany/quotedprintable"]
-	path = src/github.com/cention-sany/quotedprintable
-	url = git@github.com:cention-sany/quotedprintable.git
 [submodule "src/github.com/cention-sany/openssl"]
 	path = src/github.com/cention-sany/openssl
 	url = git@github.com:cention-sany/openssl.git
 [submodule "src/github.com/spacemonkeygo/spacelog"]
 	path = src/github.com/spacemonkeygo/spacelog
 	url = git@github.com:spacemonkeygo/spacelog.git
+[submodule "src/github.com/cention-sany/utf7"]
+	path = src/github.com/cention-sany/utf7
+	url = git@github.com:cention-sany/utf7.git
+[submodule "src/github.com/cention-sany/mime"]
+	path = src/github.com/cention-sany/mime
+	url = git@github.com:cention-sany/mime.git
+[submodule "src/github.com/glycerine/rbuf"]
+	path = src/github.com/glycerine/rbuf
+	url = git@github.com:glycerine/rbuf.git
+[submodule "src/github.com/cention-sany/go.enmime"]
+	path = src/github.com/cention-sany/go.enmime
+	url = git@github.com:cention-sany/go.enmime.git
