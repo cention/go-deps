@@ -112,3 +112,6 @@
 [submodule "src/gopkg.in/alexcesaro/quotedprintable.v2"]
 	path = src/gopkg.in/alexcesaro/quotedprintable.v2
 	url = https://gopkg.in/alexcesaro/quotedprintable.v2
+[submodule "src/github.com/aws/aws-sdk-go/aws"]
+	path = src/github.com/aws/aws-sdk-go/aws
+	url = git@github.com:aws/aws-sdk-go/aws
