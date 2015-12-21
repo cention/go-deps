@@ -109,3 +109,6 @@
 [submodule "src/gopkg.in/alexcesaro/quotedprintable.v2"]
 	path = src/gopkg.in/alexcesaro/quotedprintable.v2
 	url = https://gopkg.in/alexcesaro/quotedprintable.v2
+[submodule "src/github.com/cention-sany/net"]
+	path = src/github.com/cention-sany/net
+	url = git@github.com:cention-sany/net.git
