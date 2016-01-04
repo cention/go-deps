@@ -127,3 +127,6 @@
 [submodule "src/github.com/gorilla/securecookie"]
 	path = src/github.com/gorilla/securecookie
 	url = git@github.com:gorilla/securecookie
+[submodule "src/github.com/paulmey/go-ntlmssp"]
+	path = src/github.com/paulmey/go-ntlmssp
+	url = git@github.com:paulmey/go-ntlmssp.git
