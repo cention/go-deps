@@ -130,3 +130,6 @@
 [submodule "src/github.com/paulmey/go-ntlmssp"]
 	path = src/github.com/paulmey/go-ntlmssp
 	url = git@github.com:paulmey/go-ntlmssp.git
+[submodule "src/github.com/cention-sany/log"]
+	path = src/github.com/cention-sany/log
+	url = git@github.com:cention-sany/log.git
