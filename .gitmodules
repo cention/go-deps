@@ -112,3 +112,24 @@
 [submodule "src/github.com/cention-sany/net"]
 	path = src/github.com/cention-sany/net
 	url = git@github.com:cention-sany/net.git
+[submodule "src/github.com/boj/redistore"]
+	path = src/github.com/boj/redistore
+	url = git@github.com:boj/redistore
+[submodule "src/github.com/garyburd/redigo"]
+	path = src/github.com/garyburd/redigo
+	url = git@github.com:garyburd/redigo
+[submodule "src/github.com/gin-gonic/contrib"]
+	path = src/github.com/gin-gonic/contrib
+	url = git@github.com:gin-gonic/contrib
+[submodule "src/github.com/golang/protobuf"]
+	path = src/github.com/golang/protobuf
+	url = git@github.com:golang/protobuf
+[submodule "src/github.com/gorilla/context"]
+	path = src/github.com/gorilla/context
+	url = git@github.com:gorilla/context
+[submodule "src/github.com/gorilla/securecookie"]
+	path = src/github.com/gorilla/securecookie
+	url = git@github.com:gorilla/securecookie
+[submodule "src/github.com/gorilla/sessions"]
+	path = src/github.com/gorilla/sessions
+	url = git@github.com:gorilla/sessions
