@@ -112,6 +112,9 @@
 [submodule "src/gopkg.in/alexcesaro/quotedprintable.v2"]
 	path = src/gopkg.in/alexcesaro/quotedprintable.v2
 	url = https://gopkg.in/alexcesaro/quotedprintable.v2
+[submodule "src/github.com/cention-sany/net"]
+	path = src/github.com/cention-sany/net
+	url = git@github.com:cention-sany/net.git
 [submodule "src/github.com/aws/aws-sdk-go"]
 	path = src/github.com/aws/aws-sdk-go
 	url = git@github.com:aws/aws-sdk-go
@@ -124,3 +127,9 @@
 [submodule "src/github.com/gorilla/securecookie"]
 	path = src/github.com/gorilla/securecookie
 	url = git@github.com:gorilla/securecookie
+[submodule "src/github.com/paulmey/go-ntlmssp"]
+	path = src/github.com/paulmey/go-ntlmssp
+	url = git@github.com:paulmey/go-ntlmssp.git
+[submodule "src/github.com/cention-sany/log"]
+	path = src/github.com/cention-sany/log
+	url = git@github.com:cention-sany/log.git
