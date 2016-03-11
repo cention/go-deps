@@ -112,3 +112,6 @@
 [submodule "src/github.com/cention-sany/net"]
 	path = src/github.com/cention-sany/net
 	url = git@github.com:cention-sany/net.git
+[submodule "src/github.com/jaytaylor/html2text"]
+	path = src/github.com/jaytaylor/html2text
+	url = git@github.com:jaytaylor/html2text.git
