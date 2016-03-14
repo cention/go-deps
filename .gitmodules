@@ -154,3 +154,6 @@
 [submodule "src/github.com/gorilla/sessions"]
 	path = src/github.com/gorilla/sessions
 	url = git@github.com:gorilla/sessions
+[submodule "src/github.com/jaytaylor/html2text"]
+	path = src/github.com/jaytaylor/html2text
+	url = git@github.com:jaytaylor/html2text.git
