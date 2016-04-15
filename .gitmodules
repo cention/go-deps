@@ -54,7 +54,7 @@
 	url = git@github.com:googollee/go-socket.io
 [submodule "src/github.com/googollee/go-engine.io"]
 	path = src/github.com/googollee/go-engine.io
-	url = git@github.com:googollee/go-engine.io
+	url = git@github.com:cention-nazri/go-engine.io
 [submodule "src/github.com/gorilla/websocket"]
 	path = src/github.com/gorilla/websocket
 	url = git@github.com:gorilla/websocket
