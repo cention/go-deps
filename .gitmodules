@@ -160,3 +160,6 @@
 [submodule "src/github.com/mattn/go-sqlite3"]
 	path = src/github.com/mattn/go-sqlite3
 	url = git@github.com:mattn/go-sqlite3
+[submodule "src/github.com/line/line-bot-sdk-go"]
+	path = src/github.com/line/line-bot-sdk-go
+	url = git@github.com:line/line-bot-sdk-go.git
