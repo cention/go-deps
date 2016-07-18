@@ -163,3 +163,9 @@
 [submodule "src/github.com/line/line-bot-sdk-go"]
 	path = src/github.com/line/line-bot-sdk-go
 	url = git@github.com:line/line-bot-sdk-go.git
+[submodule "src/github.com/cention-sany/vk"]
+	path = src/github.com/cention-sany/vk
+	url = git@github.com:cention-sany/vk.git
+[submodule "src/github.com/codeship/go-retro"]
+	path = src/github.com/codeship/go-retro
+	url = git@github.com:codeship/go-retro.git
