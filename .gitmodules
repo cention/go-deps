@@ -169,3 +169,6 @@
 [submodule "src/github.com/codeship/go-retro"]
 	path = src/github.com/codeship/go-retro
 	url = git@github.com:codeship/go-retro.git
+[submodule "go-instagram"]
+	path = go-instagram
+	url = github.com:cention-mujibur-rahman/go-instagram.git
