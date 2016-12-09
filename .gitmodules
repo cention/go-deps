@@ -115,3 +115,6 @@
 [submodule "src/github.com/jaytaylor/html2text"]
 	path = src/github.com/jaytaylor/html2text
 	url = git@github.com:jaytaylor/html2text.git
+[submodule "src/github.com/cention-sany/uuencode"]
+	path = src/github.com/cention-sany/uuencode
+	url = git@github.com:cention-sany/uuencode.git
