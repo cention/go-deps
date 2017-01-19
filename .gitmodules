@@ -175,3 +175,6 @@
 [submodule "src/github.com/cention-mujibur-rahman/go-instagram"]
 	path = src/github.com/cention-mujibur-rahman/go-instagram
 	url = git@github.com:cention-mujibur-rahman/go-instagram.git
+[submodule "src/golang.org/x/sys"]
+	path = src/golang.org/x/sys
+	url = git@github.com:golang/sys
