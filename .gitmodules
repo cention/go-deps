@@ -169,3 +169,6 @@
 [submodule "src/github.com/codeship/go-retro"]
 	path = src/github.com/codeship/go-retro
 	url = git@github.com:codeship/go-retro.git
+[submodule "src/golang.org/x/sys"]
+	path = src/golang.org/x/sys
+	url = git@github.com:golang/sys
