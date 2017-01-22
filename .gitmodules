@@ -172,3 +172,9 @@
 [submodule "src/golang.org/x/sys"]
 	path = src/golang.org/x/sys
 	url = git@github.com:golang/sys
+[submodule "src/github.com/google/jsonapi"]
+	path = src/github.com/google/jsonapi
+	url = git@github.com:google/jsonapi.git
+[submodule "src/github.com/SermoDigital/jose"]
+	path = src/github.com/SermoDigital/jose
+	url = git@github.com:SermoDigital/jose.git
