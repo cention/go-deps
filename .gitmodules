@@ -175,3 +175,6 @@
 [submodule "src/golang.org/x/sys"]
 	path = src/golang.org/x/sys
 	url = git@github.com:golang/sys
+[submodule "src/github.com/cention-sany/iconv"]
+	path = src/github.com/cention-sany/iconv
+	url = git@github.com:cention-sany/iconv.git
