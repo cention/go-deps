@@ -178,6 +178,9 @@
 [submodule "src/golang.org/x/sys"]
 	path = src/golang.org/x/sys
 	url = git@github.com:golang/sys
+[submodule "src/github.com/google/jsonapi"]
+	path = src/github.com/google/jsonapi
+	url = git@github.com:google/jsonapi.git
 [submodule "src/github.com/cention-sany/jsonapi"]
 	path = src/github.com/cention-sany/jsonapi
 	url = git@github.com:cention-sany/jsonapi.git
