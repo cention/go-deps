@@ -196,3 +196,6 @@
 [submodule "src/github.com/ChimeraCoder/anaconda"]
 	path = src/github.com/ChimeraCoder/anaconda
 	url = git@github.com:ChimeraCoder/anaconda.git
+[submodule "src/github.com/ChimeraCoder/tokenbucket"]
+	path = src/github.com/ChimeraCoder/tokenbucket
+	url = git@github.com:ChimeraCoder/tokenbucket.git
