@@ -211,3 +211,6 @@
 [submodule "src/github.com/dustin/gojson"]
 	path = src/github.com/dustin/gojson
 	url = git@github.com:dustin/gojson.git
+[submodule "src/github.com/satori/go.uuid"]
+	path = src/github.com/satori/go.uuid
+	url = git@github.com:satori/go.uuid
