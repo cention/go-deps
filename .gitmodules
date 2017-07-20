@@ -193,3 +193,6 @@
 [submodule "src/github.com/cention-sany/iconv"]
 	path = src/github.com/cention-sany/iconv
 	url = git@github.com:cention-sany/iconv.git
+[submodule "src/xi2.org/x/logrot"]
+	path = src/xi2.org/x/logrot
+	url = git@github.com:xi2/logrot
