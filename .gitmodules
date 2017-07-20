@@ -214,3 +214,6 @@
 [submodule "src/github.com/satori/go.uuid"]
 	path = src/github.com/satori/go.uuid
 	url = git@github.com:satori/go.uuid
+[submodule "src/xi2.org/x/logrot"]
+	path = src/xi2.org/x/logrot
+	url = git@github.com:xi2/logrot
