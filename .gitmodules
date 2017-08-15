@@ -217,3 +217,12 @@
 [submodule "src/xi2.org/x/logrot"]
 	path = src/xi2.org/x/logrot
 	url = git@github.com:xi2/logrot
+[submodule "src/github.com/shurcooL/httpfs"]
+	path = src/github.com/shurcooL/httpfs
+	url = git@github.com:shurcooL/httpfs
+[submodule "src/github.com/shurcooL/vfsgen"]
+	path = src/github.com/shurcooL/vfsgen
+	url = git@github.com:shurcooL/vfsgen
+[submodule "src/golang.org/x/tools"]
+	path = src/golang.org/x/tools
+	url = https://go.googlesource.com/tools
