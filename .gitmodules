@@ -54,7 +54,7 @@
 	url = git@github.com:wai-cention/at
 [submodule "src/github.com/googollee/go-socket.io"]
 	path = src/github.com/googollee/go-socket.io
-	url = git@github.com:googollee/go-socket.io
+	url = git@github.com:cention-sany/go-socket.io
 [submodule "src/github.com/googollee/go-engine.io"]
 	path = src/github.com/googollee/go-engine.io
 	url = git@github.com:cention-nazri/go-engine.io
@@ -229,3 +229,6 @@
 [submodule "src/github.com/NYTimes/gziphandler"]
 	path = src/github.com/NYTimes/gziphandler
 	url = git@github.com:NYTimes/gziphandler
+[submodule "src/github.com/xaviiic/twilioGo"]
+	path = src/github.com/xaviiic/twilioGo
+	url = git@github.com:xaviiic/twilioGo.git
