@@ -226,3 +226,6 @@
 [submodule "src/golang.org/x/tools"]
 	path = src/golang.org/x/tools
 	url = https://go.googlesource.com/tools
+[submodule "src/github.com/NYTimes/gziphandler"]
+	path = src/github.com/NYTimes/gziphandler
+	url = git@github.com:NYTimes/gziphandler
