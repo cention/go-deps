@@ -232,3 +232,6 @@
 [submodule "src/github.com/xaviiic/twilioGo"]
 	path = src/github.com/xaviiic/twilioGo
 	url = git@github.com:xaviiic/twilioGo.git
+[submodule "src/github.com/koding/websocketproxy"]
+	path = src/github.com/koding/websocketproxy
+	url = git@github.com:koding/websocketproxy
