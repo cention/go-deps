@@ -84,7 +84,7 @@
 	url = https://go.googlesource.com/text
 [submodule "src/github.com/microcosm-cc/bluemonday"]
 	path = src/github.com/microcosm-cc/bluemonday
-	url = git@github.com:microcosm-cc/bluemonday
+	url = git@github.com:cention-sany/bluemonday
 [submodule "src/github.com/itsjamie/gin-cors"]
 	path = src/github.com/itsjamie/gin-cors
 	url = git@github.com:itsjamie/gin-cors
@@ -178,3 +178,12 @@
 [submodule "src/xi2.org/x/logrot"]
 	path = src/xi2.org/x/logrot
 	url = git@github.com:xi2/logrot
+[submodule "src/github.com/sagansystems/douceur"]
+	path = src/github.com/sagansystems/douceur
+	url = git@github.com:sagansystems/douceur.git
+[submodule "src/github.com/aymerick/douceur"]
+	path = src/github.com/aymerick/douceur
+	url = git@github.com:aymerick/douceur.git
+[submodule "src/github.com/gorilla/css"]
+	path = src/github.com/gorilla/css
+	url = git@github.com:gorilla/css.git
