@@ -244,3 +244,15 @@
 [submodule "src/github.com/koding/websocketproxy"]
 	path = src/github.com/koding/websocketproxy
 	url = git@github.com:koding/websocketproxy
+[submodule "src/github.com/facebookgo/grace"]
+	path = src/github.com/facebookgo/grace
+	url = git@github.com:facebookgo/grace
+[submodule "src/github.com/facebookgo/httpdown"]
+	path = src/github.com/facebookgo/httpdown
+	url = git@github.com:facebookgo/httpdown
+[submodule "src/github.com/facebookgo/clock"]
+	path = src/github.com/facebookgo/clock
+	url = git@github.com:facebookgo/clock
+[submodule "src/github.com/facebookgo/stats"]
+	path = src/github.com/facebookgo/stats
+	url = git@github.com:facebookgo/stats
