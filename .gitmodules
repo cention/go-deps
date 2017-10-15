@@ -256,3 +256,6 @@
 [submodule "src/github.com/facebookgo/stats"]
 	path = src/github.com/facebookgo/stats
 	url = git@github.com:facebookgo/stats
+[submodule "src/github.com/nbutton23/zxcvbn-go"]
+	path = src/github.com/nbutton23/zxcvbn-go
+	url = git@github.com:nbutton23/zxcvbn-go
