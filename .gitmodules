@@ -205,3 +205,6 @@
 [submodule "src/github.com/gorilla/css"]
 	path = src/github.com/gorilla/css
 	url = git@github.com:gorilla/css.git
+[submodule "src/github.com/satori/go.uuid"]
+	path = src/github.com/satori/go.uuid
+	url = git@github.com:satori/go.uuid
