@@ -208,3 +208,6 @@
 [submodule "src/github.com/satori/go.uuid"]
 	path = src/github.com/satori/go.uuid
 	url = git@github.com:satori/go.uuid
+[submodule "src/github.com/dustin/go-humanize"]
+	path = src/github.com/dustin/go-humanize
+	url = git@github.com:dustin/go-humanize
