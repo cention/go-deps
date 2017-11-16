@@ -175,3 +175,6 @@
 [submodule "src/github.com/cention-sany/iconv"]
 	path = src/github.com/cention-sany/iconv
 	url = git@github.com:cention-sany/iconv.git
+[submodule "src/github.com/dustin/go-humanize"]
+	path = src/github.com/dustin/go-humanize
+	url = git@github.com:dustin/go-humanize
