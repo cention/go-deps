@@ -175,3 +175,6 @@
 [submodule "src/github.com/cention-sany/iconv"]
 	path = src/github.com/cention-sany/iconv
 	url = git@github.com:cention-sany/iconv.git
+[submodule "src/github.com/google/gops"]
+	path = src/github.com/google/gops
+	url = git@github.com:google/gops
