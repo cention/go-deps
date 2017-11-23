@@ -259,3 +259,9 @@
 [submodule "src/github.com/nbutton23/zxcvbn-go"]
 	path = src/github.com/nbutton23/zxcvbn-go
 	url = git@github.com:nbutton23/zxcvbn-go
+[submodule "src/github.com/dustin/go-humanize"]
+	path = src/github.com/dustin/go-humanize
+	url = git@github.com:dustin/go-humanize
+[submodule "src/github.com/google/gops"]
+	path = src/github.com/google/gops
+	url = git@github.com:google/gops
