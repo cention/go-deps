@@ -178,3 +178,15 @@
 [submodule "src/github.com/google/gops"]
 	path = src/github.com/google/gops
 	url = git@github.com:google/gops
+[submodule "src/github.com/alicebob/miniredis"]
+	path = src/github.com/alicebob/miniredis
+	url = git@github.com:alicebob/miniredis
+[submodule "src/github.com/stretchr/testify"]
+	path = src/github.com/stretchr/testify
+	url = git@github.com:stretchr/testify
+[submodule "src/github.com/bsm/redeo"]
+	path = src/github.com/bsm/redeo
+	url = git@github.com:bsm/redeo
+[submodule "src/github.com/google/jsonapi"]
+	path = src/github.com/google/jsonapi
+	url = git@github.com:google/jsonapi
