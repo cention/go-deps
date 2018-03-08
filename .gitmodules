@@ -277,3 +277,6 @@
 [submodule "src/github.com/google/jsonapi"]
 	path = src/github.com/google/jsonapi
 	url = git@github.com:google/jsonapi
+[submodule "src/github.com/cenkalti/backoff"]
+	path = src/github.com/cenkalti/backoff
+	url = git@github.com:cenkalti/backoff
