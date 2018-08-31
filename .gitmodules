@@ -280,3 +280,6 @@
 [submodule "src/github.com/cenkalti/backoff"]
 	path = src/github.com/cenkalti/backoff
 	url = git@github.com:cenkalti/backoff
+[submodule "src/github.com/cention-tobias/go-aspell"]
+	path = src/github.com/cention-tobias/go-aspell
+	url = git@github.com:cention-tobias/go-aspell.git
