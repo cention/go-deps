@@ -283,3 +283,6 @@
 [submodule "src/github.com/cention-tobias/go-aspell"]
 	path = src/github.com/cention-tobias/go-aspell
 	url = git@github.com:cention-tobias/go-aspell.git
+[submodule "src/golang.org/x/oauth2"]
+	path = src/golang.org/x/oauth2
+	url = git@github.com:golang/oauth2
