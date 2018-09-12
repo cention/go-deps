@@ -187,3 +187,6 @@
 [submodule "src/github.com/SermoDigital/jose"]
 	path = src/github.com/SermoDigital/jose
 	url = git@github.com:SermoDigital/jose.git
+[submodule "src/golang.org/x/oauth2"]
+	path = src/golang.org/x/oauth2
+	url = git@github.com:golang/oauth2
