@@ -1,9 +1,6 @@
 [submodule "src/github.com/st3v/tracerr"]
 	path = src/github.com/st3v/tracerr
 	url = git@github.com:st3v/tracerr
-[submodule "src/github.com/cention-nazri/logrot"]
-	path = src/github.com/cention-nazri/logrot
-	url = git@github.com:cention-nazri/logrot.git
 [submodule "src/github.com/cention-nazri/jetconf"]
 	path = src/github.com/cention-nazri/jetconf
 	url = git@github.com:cention-nazri/jetconf.git
