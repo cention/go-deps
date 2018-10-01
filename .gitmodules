@@ -277,3 +277,6 @@
 [submodule "src/golang.org/x/oauth2"]
 	path = src/golang.org/x/oauth2
 	url = git@github.com:golang/oauth2
+[submodule "src/github.com/fsnotify/fsnotify"]
+	path = src/github.com/fsnotify/fsnotify
+	url = git@github.com:fsnotify/fsnotify
