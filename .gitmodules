@@ -256,3 +256,6 @@
 [submodule "src/github.com/nbutton23/zxcvbn-go"]
 	path = src/github.com/nbutton23/zxcvbn-go
 	url = git@github.com:nbutton23/zxcvbn-go
+[submodule "src/github.com/fsnotify/fsnotify"]
+	path = src/github.com/fsnotify/fsnotify
+	url = git@github.com:fsnotify/fsnotify
