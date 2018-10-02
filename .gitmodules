@@ -286,3 +286,6 @@
 [submodule "src/github.com/fsnotify/fsnotify"]
 	path = src/github.com/fsnotify/fsnotify
 	url = git@github.com:fsnotify/fsnotify
+[submodule "src/github.com/containous/traefik"]
+	path = src/github.com/containous/traefik
+	url = git@github.com:cention/traefik
