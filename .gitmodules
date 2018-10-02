@@ -283,3 +283,6 @@
 [submodule "src/github.com/containous/traefik"]
 	path = src/github.com/containous/traefik
 	url = git@github.com:cention/traefik
+[submodule "src/github.com/cention/go-bindata"]
+	path = src/github.com/cention/go-bindata
+	url = git@github.com:cention/go-bindata
