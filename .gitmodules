@@ -286,3 +286,6 @@
 [submodule "src/github.com/cention/go-bindata"]
 	path = src/github.com/containous/go-bindata
 	url = git@github.com:cention/go-bindata
+[submodule "src/github.com/timewasted/go-check-certs"]
+	path = src/github.com/timewasted/go-check-certs
+	url = git@github.com:timewasted/go-check-certs
