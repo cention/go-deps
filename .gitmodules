@@ -39,7 +39,7 @@
 	url = git@github.com:asaskevich/govalidator
 [submodule "src/github.com/tealeg/xlsx"]
 	path = src/github.com/tealeg/xlsx
-	url = git@github.com:tealeg/xlsx
+	url = git@github.com:cention-nazri/xlsx
 [submodule "src/github.com/wai-cention/smpp34"]
 	path = src/github.com/wai-cention/smpp34
 	url = git@github.com:wai-cention/smpp34
