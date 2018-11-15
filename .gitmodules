@@ -213,7 +213,7 @@
 	url = git@github.com:satori/go.uuid
 [submodule "src/xi2.org/x/logrot"]
 	path = src/xi2.org/x/logrot
-	url = git@github.com:xi2/logrot
+	url = git@github.com:cention-nazri/logrot
 [submodule "src/github.com/sagansystems/douceur"]
 	path = src/github.com/sagansystems/douceur
 	url = git@github.com:sagansystems/douceur.git
