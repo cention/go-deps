@@ -301,3 +301,9 @@
 [submodule "src/github.com/extrame/xls"]
 	path = src/github.com/extrame/xls
 	url = git@github.com:extrame/xls
+[submodule "src/github.com/extrame/goyymmdd"]
+	path = src/github.com/extrame/goyymmdd
+	url = git@github.com:extrame/goyymmdd
+[submodule "src/github.com/extrame/ole2"]
+	path = src/github.com/extrame/ole2
+	url = git@github.com:extrame/ole2
