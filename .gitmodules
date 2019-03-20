@@ -295,3 +295,6 @@
 [submodule "src/github.com/timewasted/go-check-certs"]
 	path = src/github.com/timewasted/go-check-certs
 	url = git@github.com:timewasted/go-check-certs
+[submodule "src/github.com/360EntSecGroup-Skylar/excelize"]
+	path = src/github.com/360EntSecGroup-Skylar/excelize
+	url = git@github.com:360EntSecGroup-Skylar/excelize
