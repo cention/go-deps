@@ -307,3 +307,6 @@
 [submodule "src/github.com/extrame/ole2"]
 	path = src/github.com/extrame/ole2
 	url = git@github.com:extrame/ole2
+[submodule "src/github.com/mohae/deepcopy"]
+	path = src/github.com/mohae/deepcopy
+	url = git@github.com:mohae/deepcopy
