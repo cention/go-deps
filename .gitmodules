@@ -298,3 +298,6 @@
 [submodule "src/github.com/360EntSecGroup-Skylar/excelize"]
 	path = src/github.com/360EntSecGroup-Skylar/excelize
 	url = git@github.com:360EntSecGroup-Skylar/excelize
+[submodule "src/github.com/extrame/xls"]
+	path = src/github.com/extrame/xls
+	url = git@github.com:extrame/xls
