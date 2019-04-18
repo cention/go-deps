@@ -54,7 +54,7 @@
 	url = git@github.com:cention-sany/go-socket.io
 [submodule "src/github.com/googollee/go-engine.io"]
 	path = src/github.com/googollee/go-engine.io
-	url = git@github.com:cention-nazri/go-engine.io
+	url = git@github.com:cention/go-engine.io
 [submodule "src/github.com/gorilla/websocket"]
 	path = src/github.com/gorilla/websocket
 	url = git@github.com:gorilla/websocket
@@ -213,7 +213,7 @@
 	url = git@github.com:satori/go.uuid
 [submodule "src/xi2.org/x/logrot"]
 	path = src/xi2.org/x/logrot
-	url = git@github.com:cention-nazri/logrot
+	url = git@github.com:cention/logrot
 [submodule "src/github.com/sagansystems/douceur"]
 	path = src/github.com/sagansystems/douceur
 	url = git@github.com:sagansystems/douceur.git
