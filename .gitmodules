@@ -3,10 +3,10 @@
 	url = git@github.com:st3v/tracerr
 [submodule "src/github.com/cention-nazri/jetconf"]
 	path = src/github.com/cention-nazri/jetconf
-	url = git@github.com:cention-nazri/jetconf.git
+	url = git@github.com:cention/jetconf.git
 [submodule "src/github.com/cention-nazri/pidrec"]
 	path = src/github.com/cention-nazri/pidrec
-	url = git@github.com:cention-nazri/pidrec.git
+	url = git@github.com:cention/pidrec.git
 [submodule "src/github.com/st3v/translator"]
 	path = src/github.com/st3v/translator
 	url = git@github.com:cention-mujibur-rahman/translator
