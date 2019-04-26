@@ -9,7 +9,7 @@
 	url = git@github.com:cention-nazri/pidrec.git
 [submodule "src/github.com/st3v/translator"]
 	path = src/github.com/st3v/translator
-	url = git@github.com:cention-noah/translator
+	url = git@github.com:st3v/translator
 [submodule "src/github.com/huandu/facebook"]
 	path = src/github.com/huandu/facebook
 	url = git@github.com:huandu/facebook
