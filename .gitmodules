@@ -316,3 +316,6 @@
 [submodule "src/github.com/mna/redisc"]
 	path = src/github.com/mna/redisc
 	url = git@github.com:mna/redisc
+[submodule "src/google.golang.org/api"]
+	path = src/google.golang.org/api
+	url = https://github.com/googleapis/google-api-go-client
