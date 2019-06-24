@@ -310,3 +310,9 @@
 [submodule "src/github.com/mohae/deepcopy"]
 	path = src/github.com/mohae/deepcopy
 	url = git@github.com:mohae/deepcopy
+[submodule "src/github.com/gomodule/redigo"]
+	path = src/github.com/gomodule/redigo
+	url = git@github.com:gomodule/redigo
+[submodule "src/github.com/mna/redisc"]
+	path = src/github.com/mna/redisc
+	url = git@github.com:mna/redisc
