@@ -319,3 +319,6 @@
 [submodule "src/google.golang.org/api"]
 	path = src/google.golang.org/api
 	url = https://github.com/googleapis/google-api-go-client
+[submodule "src/google.golang.org/grpc"]
+	path = src/google.golang.org/grpc
+	url = https://github.com/grpc/grpc-go
