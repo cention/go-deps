@@ -328,3 +328,6 @@
 [submodule "src/go.opencensus.io"]
 	path = src/go.opencensus.io
 	url = https://github.com/census-instrumentation/opencensus-go
+[submodule "src/google.golang.org/genproto"]
+	path = src/google.golang.org/genproto
+	url = https://github.com/googleapis/go-genproto
