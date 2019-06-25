@@ -333,4 +333,4 @@
 	url = https://github.com/googleapis/go-genproto
 [submodule "src/github.com/hashicorp/golang-lru"]
 	path = src/github.com/hashicorp/golang-lru
-	url = https://github.com/hashicorp/golang-lru
+	url = git@github.com:hashicorp/golang-lru
