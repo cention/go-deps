@@ -334,3 +334,12 @@
 [submodule "src/github.com/hashicorp/golang-lru"]
 	path = src/github.com/hashicorp/golang-lru
 	url = git@github.com:hashicorp/golang-lru
+[submodule "src/github.com/go-pg/pg"]
+	path = src/github.com/go-pg/pg
+	url = git@github.com:go-pg/pg.git
+[submodule "src/github.com/jinzhu/inflection"]
+	path = src/github.com/jinzhu/inflection
+	url = git@github.com:jinzhu/inflection.git
+[submodule "src/mellium.im/sasl"]
+	path = src/mellium.im/sasl
+	url = git@github.com:mellium/sasl.git
