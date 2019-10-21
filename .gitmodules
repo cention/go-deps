@@ -343,3 +343,6 @@
 [submodule "src/mellium.im/sasl"]
 	path = src/mellium.im/sasl
 	url = git@github.com:mellium/sasl.git
+[submodule "src/github.com/urfave/cli"]
+	path = src/github.com/urfave/cli
+	url = git@github.com:urfave/cli
