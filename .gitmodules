@@ -349,4 +349,3 @@
 [submodule "src/github.com/cpuguy83/go-md2man"]
 	path = src/github.com/cpuguy83/go-md2man
 	url = git@github.com:cpuguy83/go-md2man
-
