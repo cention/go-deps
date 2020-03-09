@@ -349,3 +349,6 @@
 [submodule "src/github.com/cpuguy83/go-md2man"]
 	path = src/github.com/cpuguy83/go-md2man
 	url = git@github.com:cpuguy83/go-md2man
+[submodule "src/github.com/ttacon/libphonenumber"]
+        path = src/github.com/ttacon/libphonenumber
+        url = git@github.com:ttacon/libphonenumber.git
