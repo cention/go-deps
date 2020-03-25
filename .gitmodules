@@ -153,7 +153,7 @@
 	url = git@github.com:gorilla/sessions
 [submodule "src/github.com/jaytaylor/html2text"]
 	path = src/github.com/jaytaylor/html2text
-	url = git@github.com:jaytaylor/html2text.git
+	url = git@github.com:cention-sany/html2text.git
 [submodule "src/github.com/durango/go-credit-card"]
 	path = src/github.com/durango/go-credit-card
 	url = git@github.com:durango/go-credit-card.git
