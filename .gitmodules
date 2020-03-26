@@ -153,7 +153,7 @@
 	url = git@github.com:gorilla/sessions
 [submodule "src/github.com/jaytaylor/html2text"]
 	path = src/github.com/jaytaylor/html2text
-	url = git@github.com:jaytaylor/html2text.git
+	url = git@github.com:cention-sany/html2text.git
 [submodule "src/github.com/durango/go-credit-card"]
 	path = src/github.com/durango/go-credit-card
 	url = git@github.com:durango/go-credit-card.git
@@ -352,3 +352,9 @@
 [submodule "src/github.com/googleapis/gax-go"]
 	path = src/github.com/googleapis/gax-go
 	url = https://github.com/googleapis/gax-go.git
+[submodule "src/github.com/ttacon/libphonenumber"]
+        path = src/github.com/ttacon/libphonenumber
+        url = git@github.com:ttacon/libphonenumber.git
+[submodule "src/github.com/ttacon/builder"]
+        path = src/github.com/ttacon/builder
+        url = git@github.com:ttacon/builder.git
