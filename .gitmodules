@@ -361,3 +361,9 @@
 [submodule "src/golang.org/x/xerrors"]
 	path = src/golang.org/x/xerrors
 	url = https://go.googlesource.com/xerrors
+[submodule "src/github.com/lunny/html2md"]
+	path = src/github.com/lunny/html2md
+	url = https://github.com/lunny/html2md
+[submodule "src/github.com/gomarkdown/markdown"]
+	path = src/github.com/gomarkdown/markdown
+	url = https://github.com/gomarkdown/markdown
