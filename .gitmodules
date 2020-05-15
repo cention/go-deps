@@ -372,4 +372,4 @@
 	url = https://github.com/google/go-cmp.git
 [submodule "src/google.golang.org/protobuf"]
 	path = src/google.golang.org/protobuf
-	url = https://google.golang.org/protobuf.git
+	url = https://go.googlesource.com/protobuf 
