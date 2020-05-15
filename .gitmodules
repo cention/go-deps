@@ -373,3 +373,6 @@
 [submodule "src/google.golang.org/protobuf"]
 	path = src/google.golang.org/protobuf
 	url = https://go.googlesource.com/protobuf 
+[submodule "src/github.com/golang/groupcache"]
+	path = src/github.com/golang/groupcache
+	url = https://github.com/golang/groupcache.git
