@@ -367,3 +367,6 @@
 [submodule "src/github.com/gomarkdown/markdown"]
 	path = src/github.com/gomarkdown/markdown
 	url = https://github.com/gomarkdown/markdown
+[submodule "src/github.com/google/go-cmp"]
+	path = src/github.com/google/go-cmp
+	url = https://github.com/google/go-cmp.git
