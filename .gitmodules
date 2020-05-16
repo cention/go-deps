@@ -376,9 +376,3 @@
 [submodule "src/github.com/golang/groupcache"]
 	path = src/github.com/golang/groupcache
 	url = https://github.com/golang/groupcache.git
-[submodule "src/github.com/go-telegram-bot-api/telegram-bot-api"]
-	path = src/github.com/go-telegram-bot-api/telegram-bot-api
-	url = git@github.com:go-telegram-bot-api/telegram-bot-api
-[submodule "src/github.com/technoweenie/multipartstreamer"]
-	path = src/github.com/technoweenie/multipartstreamer
-	url = git@github.com:technoweenie/multipartstreamer
