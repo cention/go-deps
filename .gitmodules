@@ -358,9 +358,6 @@
 [submodule "src/github.com/ttacon/builder"]
         path = src/github.com/ttacon/builder
         url = git@github.com:ttacon/builder.git
-[submodule "src/golang.org/x/xerrors"]
-	path = src/golang.org/x/xerrors
-	url = https://go.googlesource.com/xerrors
 [submodule "src/github.com/lunny/html2md"]
 	path = src/github.com/lunny/html2md
 	url = https://github.com/lunny/html2md
