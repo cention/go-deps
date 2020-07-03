@@ -382,3 +382,6 @@
 [submodule "src/github.com/cention-noah/viber"]
         path = src/github.com/cention-noah/viber
         url = https://github.com/cention-noah/viber
+[submodule "src/github.com/cention-mujibur-rahman/go-trustpilot"]
+	path = src/github.com/cention-mujibur-rahman/go-trustpilot
+	url = git@github.com:cention-mujibur-rahman/go-trustpilot
