@@ -379,3 +379,6 @@
 [submodule "src/github.com/technoweenie/multipartstreamer"]
 	path = src/github.com/technoweenie/multipartstreamer
 	url = git@github.com:technoweenie/multipartstreamer
+[submodule "src/github.com/cention-noah/viber"]
+        path = src/github.com/cention-noah/viber
+        url = https://github.com/cention-noah/viber
