@@ -385,3 +385,6 @@
 [submodule "src/github.com/cention-mujibur-rahman/go-trustpilot"]
 	path = src/github.com/cention-mujibur-rahman/go-trustpilot
 	url = git@github.com:cention-mujibur-rahman/go-trustpilot
+[submodule "src/github.com/cention-mujibur-rahman/msgoraph"]
+	path = src/github.com/cention-mujibur-rahman/msgoraph
+	url = git@github.com:cention-mujibur-rahman/msgoraph
