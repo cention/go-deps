@@ -388,3 +388,6 @@
 [submodule "src/github.com/cention-mujibur-rahman/msgoraph"]
 	path = src/github.com/cention-mujibur-rahman/msgoraph
 	url = git@github.com:cention-mujibur-rahman/msgoraph
+[submodule "src/github.com/aws/aws-lambda-go"]
+	path = src/github.com/aws/aws-lambda-go
+	url = git@github.com:aws/aws-lambda-go
