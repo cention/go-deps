@@ -391,3 +391,9 @@
 [submodule "src/github.com/aws/aws-lambda-go"]
 	path = src/github.com/aws/aws-lambda-go
 	url = git@github.com:aws/aws-lambda-go
+[submodule "src/github.com/cention-sany/amazon-lex-lambda"]
+	path = src/github.com/cention-sany/amazon-lex-lambda
+	url = git@github.com:cention-sany/amazon-lex-lambda.git
+[submodule "src/github.com/cention-sany/basex"]
+	path = src/github.com/cention-sany/basex
+	url = git@github.com:cention-sany/basex.git
