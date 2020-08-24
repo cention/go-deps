@@ -397,3 +397,6 @@
 [submodule "src/github.com/cention-sany/basex"]
 	path = src/github.com/cention-sany/basex
 	url = git@github.com:cention-sany/basex.git
+[submodule "src/github.com/matoous/go-nanoid"]
+	path = src/github.com/matoous/go-nanoid
+	url = https://github.com/matoous/go-nanoid
