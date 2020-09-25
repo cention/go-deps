@@ -400,3 +400,6 @@
 [submodule "src/github.com/matoous/go-nanoid"]
 	path = src/github.com/matoous/go-nanoid
 	url = https://github.com/matoous/go-nanoid
+[submodule "src/github.com/andygrunwald/go-jira"]
+	path = src/github.com/andygrunwald/go-jira
+	url = https://github.com/andygrunwald/go-jira
