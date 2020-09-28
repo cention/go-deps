@@ -403,3 +403,18 @@
 [submodule "src/github.com/andygrunwald/go-jira"]
 	path = src/github.com/andygrunwald/go-jira
 	url = https://github.com/andygrunwald/go-jira
+[submodule "src/github.com/go-querystring"]
+	path = src/github.com/go-querystring
+	url = https://github.com/google/go-querystring
+[submodule "src/github.com/errors"]
+	path = src/github.com/errors
+	url = https://github.com/pkg/errors
+[submodule "src/github.com/tgo"]
+	path = src/github.com/tgo
+	url = https://github.com/trivago/tgo
+[submodule "src/github.com/jwt-go"]
+	path = src/github.com/jwt-go
+	url = https://github.com/dgrijalva/jwt-go
+[submodule "src/github.com/structs"]
+	path = src/github.com/structs
+	url = https://github.com/fatih/structs
