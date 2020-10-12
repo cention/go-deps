@@ -418,3 +418,6 @@
 [submodule "src/github.com/structs"]
 	path = src/github.com/structs
 	url = https://github.com/fatih/structs
+[submodule "src/github.com/emirpasic/gods"]
+	path = src/github.com/emirpasic/gods
+	url = https://github.com/emirpasic/gods
