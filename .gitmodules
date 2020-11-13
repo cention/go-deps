@@ -421,3 +421,6 @@
 [submodule "src/github.com/emirpasic/gods"]
 	path = src/github.com/emirpasic/gods
 	url = https://github.com/emirpasic/gods
+[submodule "src/golang.org/x/sync"]
+	path = src/golang.org/x/sync
+	url = git@github.com:golang/sync
