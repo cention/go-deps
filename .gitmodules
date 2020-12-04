@@ -433,3 +433,9 @@
 [submodule "src/github.com/pion/turn"]
 	path = src/github.com/pion/turn
 	url = https://github.com/pion/turn
+[submodule "src/github.com/pion/stun"]
+	path = src/github.com/pion/stun
+	url = https://github.com/pion/stun
+[submodule "src/github.com/pion/transport"]
+	path = src/github.com/pion/transport
+	url = https://github.com/pion/transport
