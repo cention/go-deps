@@ -424,3 +424,12 @@
 [submodule "src/golang.org/x/sync"]
 	path = src/golang.org/x/sync
 	url = git@github.com:golang/sync
+[submodule "src/github.com/pion/logging"]
+	path = src/github.com/pion/logging
+	url = https://github.com/pion/logging
+[submodule "src/github.com/pion/randutil"]
+	path = src/github.com/pion/randutil
+	url = https://github.com/pion/randutil
+[submodule "src/github.com/pion/turn"]
+	path = src/github.com/pion/turn
+	url = https://github.com/pion/turn
