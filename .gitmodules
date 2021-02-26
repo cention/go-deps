@@ -442,6 +442,3 @@
 [submodule "src/github.com/cention-hkmak/contrib"]
 	path = src/github.com/cention-hkmak/contrib
 	url = https://github.com/cention-hkmak/contrib.git
-[submodule "src/github.com/lib/pq"]
-	path = src/github.com/lib/pq
-	url = git@github.com:lib/pq.git
