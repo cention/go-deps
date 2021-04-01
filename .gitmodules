@@ -442,3 +442,12 @@
 [submodule "src/github.com/cention-hkmak/contrib"]
 	path = src/github.com/cention-hkmak/contrib
 	url = https://github.com/cention-hkmak/contrib.git
+[submodule "src/github.com/fluent/fluent-logger-golang"]
+	path = src/github.com/fluent/fluent-logger-golang
+	url = https://github.com/fluent/fluent-logger-golang.git
+[submodule "src/github.com/tinylib/msgp"]
+	path = src/github.com/tinylib/msgp
+	url = https://github.com/tinylib/msgp.git
+[submodule "src/github.com/philhofer/fwd"]
+	path = src/github.com/philhofer/fwd
+	url = https://github.com/philhofer/fwd.git
