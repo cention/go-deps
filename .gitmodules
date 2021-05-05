@@ -460,3 +460,9 @@
 [submodule "src/github.com/fclairamb/afero-s3"]
         path = src/github.com/fclairamb/afero-s3
         url = https://github.com/fclairamb/afero-s3
+[submodule "src/github.com/go-kit/kit"]
+	path = src/github.com/go-kit/kit
+	url = git@github.com:go-kit/kit.git
+[submodule "src/github.com/go-logfmt/logfmt"]
+	path = src/github.com/go-logfmt/logfmt
+	url = git@github.com:go-logfmt/logfmt.git
