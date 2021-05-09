@@ -454,3 +454,9 @@
 [submodule "src/github.com/lib/pq"]
 	path = src/github.com/lib/pq
 	url = git@github.com:lib/pq.git
+[submodule "src/github.com/spf13/afero"]
+	path = src/github.com/spf13/afero
+	url = https://github.com/spf13/afero
+[submodule "src/github.com/fclairamb/afero-s3"]
+        path = src/github.com/fclairamb/afero-s3
+        url = https://github.com/fclairamb/afero-s3
