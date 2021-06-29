@@ -466,3 +466,27 @@
 [submodule "src/github.com/go-logfmt/logfmt"]
 	path = src/github.com/go-logfmt/logfmt
 	url = git@github.com:go-logfmt/logfmt.git
+[submodule "src/github.com/gin-contrib/sse"]
+	path = src/github.com/gin-contrib/sse
+	url = git@github.com:gin-contrib/sse.git
+[submodule "src/github.com/go-playground/validator"]
+	path = src/github.com/go-playground/validator
+	url = git@github.com:go-playground/validator.git
+[submodule "src/github.com/mattn/go-isatty"]
+	path = src/github.com/mattn/go-isatty
+	url = git@github.com:mattn/go-isatty.git
+[submodule "src/github.com/ugorji/go"]
+	path = src/github.com/ugorji/go
+	url = git@github.com:ugorji/go.git
+[submodule "src/github.com/go-playground/universal-translator"]
+	path = src/github.com/go-playground/universal-translator
+	url = git@github.com:go-playground/universal-translator.git
+[submodule "src/github.com/leodido/go-urn"]
+	path = src/github.com/leodido/go-urn
+	url = git@github.com:leodido/go-urn.git
+[submodule "src/github.com/go-playground/locales"]
+	path = src/github.com/go-playground/locales
+	url = git@github.com:go-playground/locales.git
+[submodule "src/gopkg.in/yaml.v2"]
+	path = src/gopkg.in/yaml.v2
+	url = git@github.com:go-yaml/yaml.git
