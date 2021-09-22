@@ -490,3 +490,6 @@
 [submodule "src/gopkg.in/yaml.v2"]
 	path = src/gopkg.in/yaml.v2
 	url = git@github.com:go-yaml/yaml.git
+[submodule "src/github.com/cention-noah/gohubspot"]
+	path = src/github.com/cention-noah/gohubspot
+	url = git@github.com:cention-noah/gohubspot.git
