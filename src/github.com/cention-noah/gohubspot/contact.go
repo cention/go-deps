@@ -15,6 +15,14 @@ type Contact struct {
 	Properties   Properties `json:"properties"`
 }
 
+type ContactsList struct {
+	Query    string      `json:"query"`
+	Offset   int         `json:"offset"`
+	HasMore  bool        `json:"has-more"`
+	Total    int         `json:"total"`
+	Contacts []*Contacts `json:"contacts"`
+}
+
 type Contacts struct {
 	Vid          int    `json:"vid"`
 	CanonicalVid int    `json:"canonical-vid"`
@@ -100,6 +108,13 @@ func (s *ContactsService) GetByToken(token string) (*Contact, error) {
 func (s *ContactsService) GetByEmail(email string) (*Contacts, error) {
 	url := fmt.Sprintf("/contacts/v1/contact/email/%s/profile", email)
 	res := new(Contacts)
+	err := s.client.RunGet(url, res)
+	return res, err
+}
+
+func (s *ContactsService) SearchByQuery(query string, count int) (*ContactsList, error) {
+	url := fmt.Sprintf("/contacts/v1/search/query?q=%s&count=%d", query, count)
+	res := new(ContactsList)
 	err := s.client.RunGet(url, res)
 	return res, err
 }
