@@ -493,3 +493,6 @@
 [submodule "src/github.com/cention-noah/gohubspot"]
 	path = src/github.com/cention-noah/gohubspot
 	url = git@github.com:cention-noah/gohubspot.git
+[submodule "src/github.com/dgryski/dgoogauth"]
+	path = src/github.com/dgryski/dgoogauth
+	url = git@github.com:dgryski/dgoogauth.git
