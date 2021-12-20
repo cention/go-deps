@@ -496,9 +496,3 @@
 [submodule "src/github.com/dgryski/dgoogauth"]
 	path = src/github.com/dgryski/dgoogauth
 	url = git@github.com:dgryski/dgoogauth.git
-[submodule "src/github.com/yuin/gopher-lua"]
-	path = src/github.com/yuin/gopher-lua
-	url = git@github.com:yuin/gopher-lua.git
-[submodule "src/github.com/alicebob/gopher-json"]
-	path = src/github.com/alicebob/gopher-json
-	url = git@github.com:alicebob/gopher-json.git
