@@ -502,3 +502,18 @@
 [submodule "src/github.com/alicebob/gopher-json"]
 	path = src/github.com/alicebob/gopher-json
 	url = git@github.com:alicebob/gopher-json.git
+[submodule "src/github.com/InVisionApp/go-health"]
+	path = src/github.com/InVisionApp/go-health
+	url = git@github.com:InVisionApp/go-health.git
+[submodule "src/github.com/improbable-eng/grpc-web"]
+	path = src/github.com/improbable-eng/grpc-web
+	url = git@github.com:improbable-eng/grpc-web.git
+[submodule "src/github.com/desertbit/timer"]
+	path = src/github.com/desertbit/timer
+	url = git@github.com:desertbit/timer.git
+[submodule "src/github.com/rs/cors"]
+	path = src/github.com/rs/cors
+	url = git@github.com:rs/cors.git
+[submodule "src/github.com/InVisionApp/go-logger"]
+	path = src/github.com/InVisionApp/go-logger
+	url = git@github.com:InVisionApp/go-logger.git
