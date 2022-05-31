@@ -369,7 +369,7 @@
 	url = https://github.com/google/go-cmp.git
 [submodule "src/google.golang.org/protobuf"]
 	path = src/google.golang.org/protobuf
-	url = https://go.googlesource.com/protobuf 
+	url = https://go.googlesource.com/protobuf
 [submodule "src/github.com/golang/groupcache"]
 	path = src/github.com/golang/groupcache
 	url = https://github.com/golang/groupcache.git
@@ -517,3 +517,6 @@
 [submodule "src/github.com/InVisionApp/go-logger"]
 	path = src/github.com/InVisionApp/go-logger
 	url = git@github.com:InVisionApp/go-logger.git
+[submodule "src/github.com/rabbitmq/amqp091-go"]
+	path = src/github.com/rabbitmq/amqp091-go
+	url = git@github.com:rabbitmq/amqp091-go.git
