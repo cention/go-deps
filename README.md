@@ -25,4 +25,4 @@ Changes to be committed:
 ```
 - output with `renamed:` above should signal OK, git commit and push from this point.
 - check from https://github.com/cention/go-deps/tree/release-5.0/src/github.com/rabbitmq amqp091-go should points to the external git when clicked
-- `git rm --cached src/github.com/rabbitmq/amqp091-go.git` was used to remove git related index, `git submodule status` was also used.
+- troubleshoot usage only:`git rm --cached src/github.com/rabbitmq/amqp091-go.git` was used to remove git related index, `git submodule status` was also used.
