@@ -520,3 +520,6 @@
 [submodule "src/github.com/rabbitmq/amqp091-go"]
 	path = src/github.com/rabbitmq/amqp091-go
 	url = git@github.com:rabbitmq/amqp091-go.git
+[submodule "src/github.com/go-co-op/gocron"]
+	path = src/github.com/go-co-op/gocron
+	url = git@github.com:go-co-op/gocron
