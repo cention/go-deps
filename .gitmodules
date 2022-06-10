@@ -523,3 +523,6 @@
 [submodule "src/github.com/go-co-op/gocron"]
 	path = src/github.com/go-co-op/gocron
 	url = git@github.com:go-co-op/gocron
+[submodule "src/github.com/robfig/cron/v3"]
+	path = src/github.com/robfig/cron/v3
+	url = git@github.com:robfig/cron
