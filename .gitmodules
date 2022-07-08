@@ -526,3 +526,6 @@
 [submodule "src/github.com/robfig/cron/v3"]
 	path = src/github.com/robfig/cron/v3
 	url = git@github.com:robfig/cron
+[submodule "src/github.com/rs/xid"]
+	path = src/github.com/rs/xid
+	url = git@github.com:rs/xid.git
