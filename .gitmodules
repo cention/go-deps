@@ -529,3 +529,9 @@
 [submodule "src/github.com/rs/xid"]
 	path = src/github.com/rs/xid
 	url = git@github.com:rs/xid.git
+[submodule "src/github.com/pkg/sftp"]
+	path = src/github.com/pkg/sftp
+	url = https://github.com/pkg/sftp
+[submodule "src/github.com/kr/fs"]
+	path = src/github.com/kr/fs
+	url = https://github.com/kr/fs
