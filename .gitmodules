@@ -532,3 +532,12 @@
 [submodule "src/github.com/sashabaranov/go-openai"]
 	path = src/github.com/sashabaranov/go-openai
 	url = git@github.com:sashabaranov/go-openai.git
+[submodule "src/github.com/pkg/sftp"]
+	path = src/github.com/pkg/sftp
+	url = https://github.com/pkg/sftp
+[submodule "src/github.com/kr/fs"]
+	path = src/github.com/kr/fs
+	url = https://github.com/kr/fs
+[submodule "src/github.com/adrium/goheif"]
+	path = src/github.com/adrium/goheif
+	url = https://github.com/adrium/goheif
