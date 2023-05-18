@@ -529,3 +529,6 @@
 [submodule "src/github.com/rs/xid"]
 	path = src/github.com/rs/xid
 	url = git@github.com:rs/xid.git
+[submodule "src/github.com/sashabaranov/go-openai"]
+	path = src/github.com/sashabaranov/go-openai
+	url = git@github.com:sashabaranov/go-openai.git
