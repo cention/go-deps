@@ -538,3 +538,6 @@
 [submodule "src/github.com/kr/fs"]
 	path = src/github.com/kr/fs
 	url = https://github.com/kr/fs
+[submodule "src/github.com/cention-suriyanti/goheif"]
+	path = src/github.com/cention-suriyanti/goheif
+	url = https://github.com/cention-suriyanti/goheif
