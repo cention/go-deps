@@ -538,6 +538,3 @@
 [submodule "src/github.com/kr/fs"]
 	path = src/github.com/kr/fs
 	url = https://github.com/kr/fs
-[submodule "src/github.com/adrium/goheif"]
-	path = src/github.com/adrium/goheif
-	url = https://github.com/adrium/goheif
