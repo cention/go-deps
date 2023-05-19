@@ -31,3 +31,4 @@ Changes to be committed:
 next 2 files needs to be updated as well:
 - https://github.com/cention/c3-beta/blob/release-5.0/rpm-spec/cention-go-deps.spec.in
 - https://github.com/cention/c3-beta/blob/release-5.0/rpm-spec/gen-spec.sh
+Temp
