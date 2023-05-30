@@ -541,9 +541,9 @@
 [submodule "src/github.com/adrium/goheif"]
 	path = src/github.com/adrium/goheif
 	url = https://github.com/adrium/goheif
-[submodule "src/github.com/cention-ashish-ghosh/lexmachine"]
-        path = src/github.com/cention-ashish-ghosh/lexmachine
+[submodule "src/github.com/timtadh/lexmachine"]
+        path = src/github.com/timtadh/lexmachine
         url = git@github.com:cention-ashish-ghosh/lexmachine.git
-[submodule "src/github.com/cention-ashish-ghosh/data-structures"]
-        path = src/github.com/cention-ashish-ghosh/data-structures
+[submodule "src/github.com/timtadh/data-structures"]
+        path = src/github.com/timtadh/data-structures
         url = git@github.com:cention-ashish-ghosh/data-structures.git
