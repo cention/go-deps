@@ -542,11 +542,14 @@
 	path = src/github.com/adrium/goheif
 	url = https://github.com/adrium/goheif
 [submodule "src/github.com/timtadh/lexmachine"]
-        path = src/github.com/timtadh/lexmachine
-        url = git@github.com:cention-ashish-ghosh/lexmachine.git
+	path = src/github.com/timtadh/lexmachine
+	url = git@github.com:cention-ashish-ghosh/lexmachine.git
 [submodule "src/github.com/timtadh/data-structures"]
-        path = src/github.com/timtadh/data-structures
-        url = git@github.com:cention-ashish-ghosh/data-structures.git
+	path = src/github.com/timtadh/data-structures
+	url = git@github.com:cention-ashish-ghosh/data-structures.git
 [submodule "src/github.com/cention-mujibur-rahman/go-twitter"]
 	path = src/github.com/cention-mujibur-rahman/go-twitter
 	url = git@github.com:cention-mujibur-rahman/go-twitter.git
+[submodule "src/github.com/uptrace/bun"]
+	path = src/github.com/uptrace/bun
+	url = git@github.com:uptrace/bun.git
