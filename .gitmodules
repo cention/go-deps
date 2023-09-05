@@ -550,6 +550,6 @@
 [submodule "src/github.com/cention-mujibur-rahman/go-twitter"]
 	path = src/github.com/cention-mujibur-rahman/go-twitter
 	url = git@github.com:cention-mujibur-rahman/go-twitter.git
-[submodule "src/github.com/uptrace/bun"]
-	path = src/github.com/uptrace/bun
-	url = git@github.com:uptrace/bun.git
+#//[submodule "src/github.com/uptrace/bun"]
+#//	path = src/github.com/uptrace/bun
+#//	url = git@github.com:uptrace/bun.git
