@@ -339,7 +339,7 @@
 	url = git@github.com:jinzhu/inflection.git
 [submodule "src/mellium.im/sasl"]
         path = src/mellium.im/sasl
-        url = https://mellium.im/sasl
+        url = https://codeberg.org/mellium/sasl
 [submodule "src/github.com/urfave/cli"]
 	path = src/github.com/urfave/cli
 	url = git@github.com:urfave/cli
