@@ -327,7 +327,7 @@
 	url = git@github.com:urfave/cli
 [submodule "src/github.com/go-pg/pg"]
 	path = src/github.com/go-pg/pg
-	url = git@github.com:cention-han/pg.git
+	url = git@github.com:cention/han-pg.git
 [submodule "src/github.com/cpuguy83/go-md2man"]
 	path = src/github.com/cpuguy83/go-md2man
 	url = git@github.com:cpuguy83/go-md2man
