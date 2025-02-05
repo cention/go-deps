@@ -1,6 +1,3 @@
-[submodule "src/github.com/st3v/tracerr"]
-	path = src/github.com/st3v/tracerr
-	url = git@github.com:st3v/tracerr
 [submodule "src/github.com/cention-nazri/jetconf"]
 	path = src/github.com/cention-nazri/jetconf
 	url = git@github.com:cention/jetconf.git
@@ -13,18 +10,9 @@
 [submodule "src/github.com/huandu/facebook"]
 	path = src/github.com/huandu/facebook
 	url = git@github.com:huandu/facebook
-[submodule "src/github.com/manucorporat/sse"]
-	path = src/github.com/manucorporat/sse
-	url = git@github.com:manucorporat/sse
-[submodule "src/github.com/mattn/go-colorable"]
-	path = src/github.com/mattn/go-colorable
-	url = git@github.com:mattn/go-colorable
 [submodule "src/github.com/gin-gonic/gin"]
 	path = src/github.com/gin-gonic/gin
 	url = git@github.com:gin-gonic/gin
-[submodule "src/gopkg.in/bluesuncorp/validator.v5"]
-	path = src/gopkg.in/bluesuncorp/validator.v5
-	url = https://gopkg.in/bluesuncorp/validator.v5
 [submodule "src/golang.org/x/net"]
 	path = src/golang.org/x/net
 	url = https://go.googlesource.com/net
@@ -208,9 +196,6 @@
 [submodule "src/github.com/dustin/gojson"]
 	path = src/github.com/dustin/gojson
 	url = git@github.com:dustin/gojson.git
-[submodule "src/github.com/satori/go.uuid"]
-	path = src/github.com/satori/go.uuid
-	url = git@github.com:satori/go.uuid
 [submodule "src/xi2.org/x/logrot"]
 	path = src/xi2.org/x/logrot
 	url = git@github.com:cention/logrot
@@ -286,9 +271,6 @@
 [submodule "src/github.com/fsnotify/fsnotify"]
 	path = src/github.com/fsnotify/fsnotify
 	url = git@github.com:fsnotify/fsnotify
-[submodule "src/github.com/containous/traefik"]
-	path = src/github.com/containous/traefik
-	url = git@github.com:cention/traefik
 [submodule "src/github.com/cention/go-bindata"]
 	path = src/github.com/containous/go-bindata
 	url = git@github.com:cention/go-bindata
@@ -469,24 +451,15 @@
 [submodule "src/github.com/gin-contrib/sse"]
 	path = src/github.com/gin-contrib/sse
 	url = git@github.com:gin-contrib/sse.git
-[submodule "src/github.com/go-playground/validator"]
-	path = src/github.com/go-playground/validator
-	url = git@github.com:go-playground/validator.git
 [submodule "src/github.com/mattn/go-isatty"]
 	path = src/github.com/mattn/go-isatty
 	url = git@github.com:mattn/go-isatty.git
 [submodule "src/github.com/ugorji/go"]
 	path = src/github.com/ugorji/go
 	url = git@github.com:ugorji/go.git
-[submodule "src/github.com/go-playground/universal-translator"]
-	path = src/github.com/go-playground/universal-translator
-	url = git@github.com:go-playground/universal-translator.git
 [submodule "src/github.com/leodido/go-urn"]
 	path = src/github.com/leodido/go-urn
 	url = git@github.com:leodido/go-urn.git
-[submodule "src/github.com/go-playground/locales"]
-	path = src/github.com/go-playground/locales
-	url = git@github.com:go-playground/locales.git
 [submodule "src/gopkg.in/yaml.v2"]
 	path = src/gopkg.in/yaml.v2
 	url = git@github.com:go-yaml/yaml.git
@@ -550,6 +523,3 @@
 [submodule "src/github.com/cention-mujibur-rahman/go-twitter"]
 	path = src/github.com/cention-mujibur-rahman/go-twitter
 	url = git@github.com:cention-mujibur-rahman/go-twitter.git
-#//[submodule "src/github.com/uptrace/bun"]
-#//	path = src/github.com/uptrace/bun
-#//	url = git@github.com:uptrace/bun.git
