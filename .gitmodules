@@ -126,7 +126,7 @@
 	url = git@github.com:boj/redistore
 [submodule "src/github.com/garyburd/redigo"]
 	path = src/github.com/garyburd/redigo
-	url = https://github.com/gomodule/redigo.git
+	url = git@github.com:gomodule/redigo.git
 [submodule "src/github.com/gin-gonic/contrib"]
 	path = src/github.com/gin-gonic/contrib
 	url = git@github.com:gin-gonic/contrib
