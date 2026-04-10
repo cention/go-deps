@@ -211,9 +211,6 @@
 [submodule "src/github.com/shurcooL/httpfs"]
 	path = src/github.com/shurcooL/httpfs
 	url = git@github.com:shurcooL/httpfs
-[submodule "src/github.com/shurcooL/vfsgen"]
-	path = src/github.com/shurcooL/vfsgen
-	url = git@github.com:shurcooL/vfsgen
 [submodule "src/golang.org/x/tools"]
 	path = src/golang.org/x/tools
 	url = https://go.googlesource.com/tools
@@ -313,27 +310,15 @@
 [submodule "src/google.golang.org/genproto"]
 	path = src/google.golang.org/genproto
 	url = https://github.com/googleapis/go-genproto
-[submodule "src/github.com/hashicorp/golang-lru"]
-	path = src/github.com/hashicorp/golang-lru
-	url = git@github.com:hashicorp/golang-lru
 [submodule "src/github.com/jinzhu/inflection"]
 	path = src/github.com/jinzhu/inflection
 	url = git@github.com:jinzhu/inflection.git
-[submodule "src/mellium.im/sasl"]
-        path = src/mellium.im/sasl
-        url = https://codeberg.org/mellium/sasl
 [submodule "src/github.com/urfave/cli"]
 	path = src/github.com/urfave/cli
 	url = git@github.com:urfave/cli
 [submodule "src/github.com/go-pg/pg"]
 	path = src/github.com/go-pg/pg
 	url = git@github.com:cention/han-pg.git
-[submodule "src/github.com/cpuguy83/go-md2man"]
-	path = src/github.com/cpuguy83/go-md2man
-	url = git@github.com:cpuguy83/go-md2man
-[submodule "src/github.com/googleapis/gax-go"]
-	path = src/github.com/googleapis/gax-go
-	url = https://github.com/googleapis/gax-go.git
 [submodule "src/github.com/ttacon/libphonenumber"]
         path = src/github.com/ttacon/libphonenumber
         url = git@github.com:ttacon/libphonenumber.git
@@ -343,9 +328,6 @@
 [submodule "src/github.com/lunny/html2md"]
 	path = src/github.com/lunny/html2md
 	url = https://github.com/lunny/html2md
-[submodule "src/github.com/gomarkdown/markdown"]
-	path = src/github.com/gomarkdown/markdown
-	url = https://github.com/gomarkdown/markdown
 [submodule "src/github.com/google/go-cmp"]
 	path = src/github.com/google/go-cmp
 	url = https://github.com/google/go-cmp.git
@@ -442,21 +424,6 @@
 [submodule "src/github.com/go-kit/kit"]
 	path = src/github.com/go-kit/kit
 	url = git@github.com:go-kit/kit.git
-[submodule "src/github.com/go-logfmt/logfmt"]
-	path = src/github.com/go-logfmt/logfmt
-	url = git@github.com:go-logfmt/logfmt.git
-[submodule "src/github.com/gin-contrib/sse"]
-	path = src/github.com/gin-contrib/sse
-	url = git@github.com:gin-contrib/sse.git
-[submodule "src/github.com/mattn/go-isatty"]
-	path = src/github.com/mattn/go-isatty
-	url = git@github.com:mattn/go-isatty.git
-[submodule "src/github.com/ugorji/go"]
-	path = src/github.com/ugorji/go
-	url = git@github.com:ugorji/go.git
-[submodule "src/github.com/leodido/go-urn"]
-	path = src/github.com/leodido/go-urn
-	url = git@github.com:leodido/go-urn.git
 [submodule "src/gopkg.in/yaml.v2"]
 	path = src/gopkg.in/yaml.v2
 	url = git@github.com:go-yaml/yaml.git
@@ -472,18 +439,12 @@
 [submodule "src/github.com/alicebob/gopher-json"]
 	path = src/github.com/alicebob/gopher-json
 	url = git@github.com:alicebob/gopher-json.git
-[submodule "src/github.com/InVisionApp/go-health"]
-	path = src/github.com/InVisionApp/go-health
-	url = git@github.com:InVisionApp/go-health.git
 [submodule "src/github.com/improbable-eng/grpc-web"]
 	path = src/github.com/improbable-eng/grpc-web
 	url = git@github.com:improbable-eng/grpc-web.git
 [submodule "src/github.com/desertbit/timer"]
 	path = src/github.com/desertbit/timer
 	url = git@github.com:desertbit/timer.git
-[submodule "src/github.com/rs/cors"]
-	path = src/github.com/rs/cors
-	url = git@github.com:rs/cors.git
 [submodule "src/github.com/InVisionApp/go-logger"]
 	path = src/github.com/InVisionApp/go-logger
 	url = git@github.com:InVisionApp/go-logger.git
@@ -493,21 +454,12 @@
 [submodule "src/github.com/go-co-op/gocron"]
 	path = src/github.com/go-co-op/gocron
 	url = git@github.com:go-co-op/gocron
-[submodule "src/github.com/robfig/cron/v3"]
-	path = src/github.com/robfig/cron/v3
-	url = git@github.com:robfig/cron
-[submodule "src/github.com/rs/xid"]
-	path = src/github.com/rs/xid
-	url = git@github.com:rs/xid.git
 [submodule "src/github.com/sashabaranov/go-openai"]
 	path = src/github.com/sashabaranov/go-openai
 	url = git@github.com:sashabaranov/go-openai.git
 [submodule "src/github.com/pkg/sftp"]
 	path = src/github.com/pkg/sftp
 	url = https://github.com/pkg/sftp
-[submodule "src/github.com/kr/fs"]
-	path = src/github.com/kr/fs
-	url = https://github.com/kr/fs
 [submodule "src/github.com/adrium/goheif"]
 	path = src/github.com/adrium/goheif
 	url = https://github.com/adrium/goheif
@@ -517,6 +469,3 @@
 [submodule "src/github.com/timtadh/data-structures"]
 	path = src/github.com/timtadh/data-structures
 	url = git@github.com:cention-ashish-ghosh/data-structures.git
-[submodule "src/github.com/cention-mujibur-rahman/go-twitter"]
-	path = src/github.com/cention-mujibur-rahman/go-twitter
-	url = git@github.com:cention-mujibur-rahman/go-twitter.git
