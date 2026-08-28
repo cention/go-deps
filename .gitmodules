@@ -196,9 +196,6 @@
 [submodule "src/github.com/dustin/gojson"]
 	path = src/github.com/dustin/gojson
 	url = git@github.com:dustin/gojson.git
-[submodule "src/xi2.org/x/logrot"]
-	path = src/xi2.org/x/logrot
-	url = git@github.com:cention/logrot
 [submodule "src/github.com/sagansystems/douceur"]
 	path = src/github.com/sagansystems/douceur
 	url = git@github.com:sagansystems/douceur.git
